@@ -1,0 +1,2 @@
+# obr
+zobrazenie obrazku
